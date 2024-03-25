@@ -1,12 +1,3 @@
-### Olá, o meu nome é Rita 👋
-
-Sou estudante, estando atualmente a tirar a licenciatura em Gestão de Sistemas de Informação.
-
-Pretendo partilhar os projetos em que estarei a trabalhar, por isso, poderão vê-los nos meus repositórios.
-
----
-
-
 ### Hi there, my name is Rita 👋
 
 I am a student from Portugal. I am currently taking a degree in Information Systems Management.
