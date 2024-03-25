@@ -2,7 +2,7 @@
 
 Sou estudante, estando atualmente a tirar a licenciatura em Gestão de Sistemas de Informação.
 
-Pretendo partilhar os projetos em que estarei a trabalhar, por isso poderão vê-los nos meus repositórios.
+Pretendo partilhar os projetos em que estarei a trabalhar, por isso, poderão vê-los nos meus repositórios.
 
 ---
 
