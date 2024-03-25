@@ -1,5 +1,7 @@
 ### Olá, o meu nome é Rita 👋
+
 Sou estudante, estando atualmente a tirar a licenciatura em Gestão de Sistemas de Informação.
+
 Pretendo partilhar os projetos em que estarei a trabalhar. Poderão vê-los nos meus repositórios.
 
 ---
